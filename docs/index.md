@@ -29,4 +29,4 @@ Finally, we will provide a birds eye view of the emerging field of "<anything>2v
 
 ### Contact
 
-Bruno Gonçalves [[web]](www.bgoncalves.com) [[email]](mailto:bgoncalves@gmail.com) [[twitter]](https://twitter.com/bgoncalves)
+Bruno Gonçalves [[web]](http://www.bgoncalves.com) [[email]](mailto:bgoncalves@gmail.com) [[twitter]](https://twitter.com/bgoncalves)
