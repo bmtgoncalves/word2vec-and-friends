@@ -10,23 +10,26 @@ Finally, we will provide a birds eye view of the emerging field of "<anything>2v
 1. Neural network architecture and algorithms underlying word2vec.
 * Basic intuition
 * Skip-gram
-* Continuous bag of words
-* Hierarchical softmax
-* Cross entropy
-* Negative sampling
+* Softmax
+* Cross-Entropy
+* BackProp
 * Online sources for pre-trained embeddings
 
-2. Properties of word embeddings 
+2. Properties and Applications of word embeddings 
+* Visualization
+* Analogies
 
-3. Brief refresher of tensorflow
+3. Brief overview of tensorflow
+* Installation
+* Computational Graph
+* Simple example (Linear fitting)
 
 4. Detailed discussion of tensorflows [reference implementation](https://github.com/tensorflow/models/blob/master/tutorials/embedding/word2vec.py)
 
 5. Overview of word2vec variations and their applications
-* [phrase2vec](https://cs.stanford.edu/~quocle/paragraph_vector.pdf)
-* [doc2vec](https://cs.stanford.edu/~quocle/paragraph_vector.pdf)
-* [dna2vec](https://arxiv.org/abs/1701.06279)
+* [Linguistic Change](https://www.perozzi.net/publications/15_www_linguistic.pdf)
 * [node2vec](https://cs.stanford.edu/people/jure/pubs/node2vec-kdd16.pdf)
+* [dna2vec](https://arxiv.org/abs/1701.06279)
 
 # Contact
 
