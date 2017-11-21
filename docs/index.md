@@ -32,6 +32,10 @@ Finally, we will provide a birds eye view of the emerging field of "<anything>2v
 * [node2vec](https://cs.stanford.edu/people/jure/pubs/node2vec-kdd16.pdf)
 * [dna2vec](https://arxiv.org/abs/1701.06279)
 
+# Slides
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/1oiO1DvTMMzKCo" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
 # Contact
 
 Bruno Gonçalves [[web]](http://www.bgoncalves.com) [[email]](mailto:bgoncalves@gmail.com) [[twitter]](https://twitter.com/bgoncalves)
