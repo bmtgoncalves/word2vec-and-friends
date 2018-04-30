@@ -34,7 +34,14 @@ Finally, we will provide a birds eye view of the emerging field of "<anything>2v
 
 # Slides
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/1oiO1DvTMMzKCo" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+## O'Reilly AI New York City, 2018
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/AvHmgfyoGTwtkF" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
+
+## Previous Editions
+* [O'Reilly AI San Francisco 2017](aisf17)
+* [This Week in Machine Learning and AI](https://twimlai.com/twiml-talk-048-word2vec-friends-bruno-goncalves/)
+* [Byte Academy 2017](byteacademy)
+* [Ai With the Best 2017](aiwtb)
 
 # Contact
 
